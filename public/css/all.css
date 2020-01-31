@@ -1,0 +1,39 @@
+.write-textarea {
+    width: 300px;
+    height: 200px;
+}
+.submit {
+    margin-top: 20px;
+}
+.form-content {
+    margin-bottom: 10px!important;
+}
+.form-title {
+    width: 800px;
+    border: 1px solid #cacaca;
+    margin-bottom: 10px;
+    padding: 10px;
+    color: #333;
+}
+.container {
+    border: 1px solid rgb(190, 190, 190);
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 823px;
+}
+.search {
+    width: 300px;
+}
+.page-back {
+    color: rgb(85, 26, 139);;
+    cursor: pointer;
+    text-decoration-line: underline;
+}
+.line {
+    border-top: 1px solid rgb(190, 190, 190);
+    margin-top: 20px;
+    padding-top: 10px;
+}
+.comment {
+    margin-top: 10px;
+}
